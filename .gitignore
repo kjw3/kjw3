@@ -1,4 +1,6 @@
 /.project
 /.settings
-/.DS_Store
 /*.sublime*
+/.DS_Store
+_site
+.sass-cache
